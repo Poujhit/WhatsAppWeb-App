@@ -10,7 +10,7 @@ Just install the App and follow the instructions.
 Download the App [here](https://github.com/Poujhit). Download the correct architecture version.
 ## How this Project is Made
 
-This project is made using flutter framework. 
+This project is made using [Flutter](https://flutter.dev) framework. 
 
 These are the Packages used for this app. 
 
@@ -20,6 +20,4 @@ These are the Packages used for this app.
 To See my Other Projects
 - [My Github Profile](https://github.com/Poujhit)
 
-About Flutter 
-- [Flutter](https://flutter.dev)
 
