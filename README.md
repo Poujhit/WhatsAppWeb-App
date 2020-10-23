@@ -18,7 +18,8 @@ These are the Packages used for this app.
 - [Web View Plugin](https://pub.dev/packages/webview_flutter)
 
 To See my Other Projects
-- [My Github Profile](https://github.com/Poujhit) 
+- [My Github Profile](https://github.com/Poujhit)
+
 About Flutter 
-- [Flutter](https://flutter.dev), 
+- [Flutter](https://flutter.dev)
 
