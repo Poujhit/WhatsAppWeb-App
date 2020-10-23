@@ -1,4 +1,4 @@
-# WhatsApp\nWeb App
+# WhatsAppWeb App
 
 A Whatsapp webview(desktop) Android app for easy use when you have two phones and want to share whatsapp without need to login or sharing the whatsapp media files.
 
