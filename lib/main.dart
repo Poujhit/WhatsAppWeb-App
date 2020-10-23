@@ -5,6 +5,8 @@ void main() {
   runApp(MyApp());
 }
 
+//flutter build apk --split-per-abi
+
 class MyApp extends StatelessWidget {
   final Map<int, Color> color = {
     50: Color.fromRGBO(136, 14, 79, .1),
