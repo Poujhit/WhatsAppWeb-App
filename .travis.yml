@@ -1,0 +1,18 @@
+os:
+  - linux
+sudo: false
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test # if we don't specify this, the libstdc++6 we get is the wrong version
+    packages:
+      - libstdc++6
+      - fonts-droid-fallback
+before_script:
+  - git clone https://github.com/flutter/flutter.git -b dev
+  - ./flutter/bin/flutter doctor
+script:
+  - ./flutter/bin/flutter build apk --split-per-abi
+cache:
+  directories:
+    - $HOME/.pub-cache
