@@ -1,6 +1,7 @@
+language: android
+dist: trusty
 os:
   - linux
-sudo: false
 addons:
   apt:
     sources:
