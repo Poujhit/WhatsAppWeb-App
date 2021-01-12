@@ -1,5 +1,8 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
+
 import 'package:whatsappweb/license.dart';
 
 class WhatsAppWebView extends StatefulWidget {
@@ -8,6 +11,12 @@ class WhatsAppWebView extends StatefulWidget {
 }
 
 class _WhatsAppWebViewState extends State<WhatsAppWebView> {
+  @override
+  void initState() {
+    super.initState();
+    if (Platform.isAndroid) WebView.platform = SurfaceAndroidWebView();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
