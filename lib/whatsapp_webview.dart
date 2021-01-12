@@ -37,7 +37,7 @@ class _WhatsAppWebViewState extends State<WhatsAppWebView> {
               ),
               applicationName: 'WhatsApp\nWeb App',
               applicationLegalese: License.licenseText,
-              applicationVersion: '1.0.2',
+              applicationVersion: '1.0.3',
             ),
           )
         ],
