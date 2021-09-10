@@ -2,6 +2,8 @@
 
 A Whatsapp webview(desktop) Android app for easy use when you have two phones and want to share whatsapp without need to login or sharing the whatsapp media files.
 
+Use whatsapp-web version as an android app
+
 ## Info About the App
 
 It is just a Simple app to **seamlessly use whatsapp across devices**. You would think that just Chrome in your phone with the link(for Whatsapp web) is just enough but sometimes you would have many chrome tabs opened it might be take a lot of performance from your phone and the performance of the website will be subpar. So for overcoming this issue an Android App for WhatsApp Web is made to make your life easier. **Just Open the app, scan the Qr code and viola done**!
